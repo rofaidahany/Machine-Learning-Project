@@ -2,7 +2,7 @@
 
 This project is a machine learning project aiming to predict customer satisfaction using the Titanic dataset. The main goal is to explore different models and preprocessing techniques to achieve high accuracy and create an interactive interface for predictions using Streamlit.
 
-Project Outline
+## Project Outline
 
 **1. Importing Libraries**
 Loaded essential Python libraries for data analysis, visualization, and machine learning.
