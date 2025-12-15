@@ -5,38 +5,47 @@ This project is a machine learning project aiming to predict customer satisfacti
 ## Project Outline
 
 **1. Importing Libraries**
+
 Loaded essential Python libraries for data analysis, visualization, and machine learning.
 
 
 **2. Exploratory Data Analysis (EDA)**
+
 Examined the dataset to understand distributions, correlations, and patterns in the data.
 
 
 **3. Handling Missing Values**
+
 Identified and treated missing values to ensure data quality.
 
 
 **4. Data Splitting**
+
 Split the dataset into training and testing sets.
 
 
 **5. Encoding**
+
 Converted categorical features into numerical values using encoding techniques.
 
 
 **6. Scaling**
+
 Standardized numerical features to improve model performance.
 
 
 **7. Handling Outliers**
+
 Detected and treated outliers to reduce their impact on model predictions.
 
 
 **8. Balancing Data**
+
 Applied techniques to balance the dataset and handle class imbalances.
 
 
 **9. Modeling**
+
 Tested several machine learning models:
 
 1- Logistic Regression
@@ -52,6 +61,7 @@ Tested several machine learning models:
 
 
 **10. Feature Selection**
+
 Used Feature Importance to select the most relevant features, improving model efficiency.
 
 
@@ -66,6 +76,7 @@ Random Forest was selected as the final model due to its superior performance.
 
 
 **12. Streamlit Interface**
+
 Built an interactive interface using Streamlit to:
 
 ***Input new data***
