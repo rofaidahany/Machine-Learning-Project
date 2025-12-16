@@ -1,6 +1,6 @@
-# Titanic Customer Satisfaction Prediction
+# Customer Satisfaction Prediction
 
-This project is a machine learning project aiming to predict customer satisfaction using the Titanic dataset. The main goal is to explore different models and preprocessing techniques to achieve high accuracy and create an interactive interface for predictions using Streamlit.
+This project is a machine learning project aiming to predict customer satisfaction using the airplane dataset. The main goal is to explore different models and preprocessing techniques to achieve high accuracy and create an interactive interface for predictions using Streamlit.
 
 ## Project Outline
 
