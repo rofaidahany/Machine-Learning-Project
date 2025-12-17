@@ -3,7 +3,7 @@ import numpy as np
 import pickle
 import pandas as pd 
 
-with open("C:/Users/Top10/Desktop/Quiz/model.pkl","rb") as f:
+with open(r"C:\Users\Top10\Desktop\Machine-Learning-Project\Machine_Project\model.pkl","rb") as f:
     model = pickle.load(f)
 st.title("airline passenger satisfaction prediction")
 st.header("entre passenger details")
@@ -57,7 +57,7 @@ if st.button("Predict Satisfaction"):
         if pred[0] == 1:
             st.success("✅ Passenger is Satisfied")
         else:
-            st.info("ℹ️ Passenger is Neutral or Dissatisfied")
+            st.error(" Passenger is Dissatisfied")
         
 
 
